@@ -1,0 +1,11 @@
+#+TITLE: PyFile
+
+* About
+A self-contained python webapp to share files on a local network.
+
+#+begin_src text
+$ python app.py
+Serving at http://0.0.0.0:8080/ ...
+#+end_src
+
+[[file:demo.png]]
